@@ -1,0 +1,6 @@
+{
+  "TOKEN": "توكين_البوت",
+  "embedImage": ".png",
+    "adminRole": "معرف_رتبة_الادارة",
+    "prefix": "!"
+  }
